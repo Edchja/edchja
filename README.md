@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Edchja | Github" width="35px" style="padding-right: 10px; filter: invert(6%) sepia(7%) saturate(270%) hue-rotate(314deg) brightness(95%) contrast(93%)" src="https://simpleicons.org/icons/github.svg" />][github]
 
-[<img align="left" alt="Edgar Timakin | Instagram" width="30px" style="padding-right: 10px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Edgar Timakin | Instagram" width="35px" style="padding-right: 10px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 
 [<img align="left" alt="Edchja Photography | Instagram" width="35px" style="padding-right: 10px; filter: invert(38%) sepia(93%) saturate(4901%) hue-rotate(192deg) brightness(91%) contrast(95%)" src="https://simpleicons.org/icons/photobucket.svg" />][photo_instagram]
 
