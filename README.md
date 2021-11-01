@@ -9,7 +9,7 @@
 - 💻 I like to work with Windows and Linux
 - 🏋️‍♂️ In my free time I'm training at the gym
 - 📸 I'm a photographer in my spare time and I like to shoot portraits and cars (everything else too 😀)
-  [<img align="center" alt="Edgar Timakin | Instagram" width="25px" style="padding-left: 5px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+  [<img align="center" alt="Edgar Timakin | Instagram" width="25px" style="padding-left: 5px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][photo_instagram]
 
 <br>
 
