@@ -35,6 +35,8 @@
 
 <img align="left" alt="JetBrains Rider" width="30px" style="padding-right: 15px; filter: invert(0%) sepia(8%) saturate(7500%) hue-rotate(215deg) brightness(109%) contrast(95%)" src="https://simpleicons.org/icons/rider.svg" />
 
+<img align="left" alt="ASP .NET" width="30px" style="padding-right: 15px; filter: invert(18%) sepia(97%) saturate(3077%) hue-rotate(249deg) brightness(86%) contrast(95%)" src="https://simpleicons.org/icons/dotnet.svg" />
+
 <img align="left" alt="Golang" width="40px" style="padding-right: 15px; filter: invert(59%) sepia(29%) saturate(7446%) hue-rotate(157deg) brightness(96%) contrast(101%)" src="https://simpleicons.org/icons/go.svg" />
 
 <img align="left" alt="Docker" width="30px" style="padding-right: 15px; filter: invert(52%) sepia(93%) saturate(3153%) hue-rotate(183deg) brightness(100%) contrast(87%)" src="https://simpleicons.org/icons/docker.svg" />
