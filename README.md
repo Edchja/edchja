@@ -1,64 +1,182 @@
-## Cheers, I'm Edgar - aka Edchja 👋
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RuMGFyYWJhNGlmNWoxN2xwMWUxZ2w5cGJvd3BuNTNsaTI4OTRxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif"  />
+</div>
 
-## I've recently completed my apprenticeship as a software developer and now I'm working full time as a software engineer.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/edgar-timakin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/cHPPJcKeN2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/edgar.tmkn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-- 🎈 I'm currently learning a lot about software developing especially backend
-  development
-- 🛠 I'm interested a lot in hardware topics and I'm relatively good at it
-- 💻 I like to work with Windows as well as Linux
-- 🏋️‍♂️ In my free time I'm training at the gym
-- 📸 I'm a photographer in my spare time and I like to shoot portraits, cars and everything else too 😀 <br>
+###
 
-  [Check out my photography page on<img align="center" alt="Edgar Timakin | Instagram" width="25px" style="padding-left: 5px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][photo_instagram]
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edchja.edchja&"  />
+</div>
 
-### 🌍 Connect with me:
+###
 
----
+<h1 align="center">Cheers 🥃</h1>
 
-[<img align="left" alt="Edchja | Github" width="35px" style="padding-right: 15px; filter: invert(6%) sepia(7%) saturate(270%) hue-rotate(314deg) brightness(95%) contrast(93%)" src="https://simpleicons.org/icons/github.svg" />][github]
+###
 
-[<img align="left" alt="Edgar Timakin | Instagram" width="35px" style="padding-right: 15px; filter: invert(47%) sepia(78%) saturate(6194%) hue-rotate(314deg) brightness(88%) contrast(97%)" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+<h2 align="left">👩‍💻  About Me</h2>
 
-[<img align="left" alt="Edchja Photography | Instagram" width="35px" style="filter: invert(38%) sepia(93%) saturate(4901%) hue-rotate(192deg) brightness(91%) contrast(95%)" src="https://simpleicons.org/icons/photobucket.svg" />][photo_instagram]
+###
 
-<br><br>
+<p align="left">👋 Hey there! I'm Edgar from Augsburg, located in Germany.<br><br>- 🔭 I’m working as a full-stack developer<br>- 🚀 I'm constantly learning and growing in software development — every day brings something new!<br>- 🖥️ I'm passionate about hardware and DevOps topics, especially tools like Docker and the whole ecosystem around it.<br>- 💪 To balance out all the screen time, I hit the gym regularly — and lately, I’ve picked up diving🤿 as an exciting new hobby!<br>- 📸 In my free time, I enjoy photography — capturing portraits, cars, and anything else that catches my eye through my lens.</p>
 
-### 💻 Languages and Tools:
+###
 
----
+<h2 align="center">🛠 Language</h2>
 
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right: 15px; filter: invert(28%) sepia(95%) saturate(1138%) hue-rotate(179deg) brightness(107%) contrast(103%)" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+###
 
-<img align="left" alt="JetBrains IntelliJ IDEA" width="30px" style="padding-right: 15px; filter: invert(0%) sepia(8%) saturate(7500%) hue-rotate(215deg) brightness(109%) contrast(95%)" src="https://simpleicons.org/icons/intellijidea.svg" />
+<div align="center">
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
-<img align="left" alt="JetBrains Rider" width="30px" style="padding-right: 15px; filter: invert(0%) sepia(8%) saturate(7500%) hue-rotate(215deg) brightness(109%) contrast(95%)" src="https://simpleicons.org/icons/rider.svg" />
+###
 
-<img align="left" alt="ASP .NET" width="30px" style="padding-right: 15px; filter: invert(18%) sepia(97%) saturate(3077%) hue-rotate(249deg) brightness(86%) contrast(95%)" src="https://simpleicons.org/icons/dotnet.svg" />
+<h2 align="center">🧰 Current Tools</h2>
 
-<img align="left" alt="Golang" width="40px" style="padding-right: 15px; filter: invert(59%) sepia(29%) saturate(7446%) hue-rotate(157deg) brightness(96%) contrast(101%)" src="https://simpleicons.org/icons/go.svg" />
+###
 
-<img align="left" alt="Docker" width="30px" style="padding-right: 15px; filter: invert(52%) sepia(93%) saturate(3153%) hue-rotate(183deg) brightness(100%) contrast(87%)" src="https://simpleicons.org/icons/docker.svg" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+</div>
 
-<img align="left" alt="MySQL" width="35px" style="padding-right: 15px; filter: invert(49%) sepia(10%) saturate(2144%) hue-rotate(163deg) brightness(87%) contrast(91%)" src="https://simpleicons.org/icons/mysql.svg" />
+###
 
-<img align="left" alt="HTML5" width="30px" style="padding-right: 15px; filter: invert(38%) sepia(71%) saturate(2684%) hue-rotate(348deg) brightness(93%) contrast(91%)" src="https://simpleicons.org/icons/html5.svg" />
+<h2 align="center">🧰 Tools</h2>
 
-<img align="left" alt="CSS3" width="30px" style="padding-right: 15px; filter: invert(34%) sepia(93%) saturate(850%) hue-rotate(173deg) brightness(89%) contrast(90%)" src="https://simpleicons.org/icons/css3.svg" />
+###
 
-<img align="left" alt="Bootstrap" width="30px" style="padding-right: 15px; filter: invert(39%) sepia(9%) saturate(4386%) hue-rotate(224deg) brightness(89%) contrast(83%)" src="https://simpleicons.org/icons/bootstrap.svg" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+</div>
 
-<img align="left" alt="Git" width="30px" style="padding-right: 15px; filter: invert(42%) sepia(97%) saturate(2637%) hue-rotate(342deg) brightness(96%) contrast(95%)" src="https://simpleicons.org/icons/git.svg" />
+###
 
-<img align="left" alt="Linux" width="30px" style="padding-right: 15px; filter: invert(78%) sepia(7%) saturate(4395%) hue-rotate(356deg) brightness(99%) contrast(101%)" src="https://simpleicons.org/icons/linux.svg" />
+<h2 align="center">🔥   My Stats</h2>
 
-<img align="left" alt="Kali Linux" width="30px" style="padding-right: 15px; filter: invert(45%) sepia(36%) saturate(400%) hue-rotate(159deg) brightness(94%) contrast(92%)" src="https://simpleicons.org/icons/kalilinux.svg" />
+###
 
-<img align="left" alt="Lightroom CC" width="30px" style="padding-right: 15px; filter: invert(55%) sepia(64%) saturate(1990%) hue-rotate(181deg) brightness(100%) contrast(103%)" src="https://simpleicons.org/icons/adobelightroom.svg" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edchja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=edchja&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
 
-<img align="left" alt="Photoshp" width="30px" style="padding-right: 15px; filter: invert(55%) sepia(64%) saturate(1990%) hue-rotate(181deg) brightness(100%) contrast(103%)" src="https://simpleicons.org/icons/adobephotoshop.svg" />
+###
 
-[github]: https://github.com/edchja/
-[photo_instagram]: https://www.instagram.com/edchja.photography/
-[instagram]: https://instagram.com/edgar.tmkn/
+<div align="center">
+  <a href="https://open.spotify.com/user/su675frboigwm0tldfru1jt1i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=su675frboigwm0tldfru1jt1i&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
