@@ -25,11 +25,7 @@
 <p align="left">
 👋 Hey there! I'm Edgar from Augsburg, located in Germany.
 
-👨‍💻 I’m working as a full-stack developer
-🚀 I'm constantly learning and growing in software development — every day brings something new!
-🖥️ I'm passionate about hardware and DevOps topics, especially tools like Docker and the whole ecosystem around it.
-💪 To balance out all the screen time, I hit the gym regularly — and lately, I’ve picked up diving🤿 as an exciting new hobby!
-📸 In my free time, I enjoy photography — capturing portraits, cars, and anything else that catches my eye through my lens.  
+👨‍💻 I’m working as a full-stack developer<br>🚀 I'm constantly learning and growing in software development — every day brings something new!<br>🖥️ I'm passionate about hardware and DevOps topics, especially tools like Docker and the whole ecosystem around it.<br>💪 To balance out all the screen time, I hit the gym regularly — and lately, I’ve picked up diving🤿 as an exciting new hobby!<br>📸 In my free time, I enjoy photography — capturing portraits, cars, and anything else that catches my eye through my lens.
 </p>
 
 <h2 align="center">🛠 Language</h2>
